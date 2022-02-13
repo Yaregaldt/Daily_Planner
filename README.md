@@ -2,9 +2,9 @@
 
 This simple calendar application allows a user to save events for each hour of the day by modifying starter code. This app runs in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
-I used the [Moment.js](https://momentjs.com/) library to work with date and time. 
-
 This app is built based on the folowing user story, and acceptance criteria.
+
+This app can be accessed at: https://yaregaldt.github.io/Daily_Planner/
 
 ## User Story
 
